@@ -40,8 +40,8 @@ function setOptionPanel() {
 		Kskipkeycode: 17,
 
 		mastervolume: 50,
-		effectvolume: 100,
-		musicvolume: 25,
+		effectvolume: 75,
+		musicvolume: 15,
 		audiooffset: 0,
 		beatmapHitsound: true,
 
